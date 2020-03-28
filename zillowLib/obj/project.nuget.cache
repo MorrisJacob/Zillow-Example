@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wE6BLYeAOxf8xWOWkZTPI0pQ5Y24hd9RZAawDiut/D83uL7tz7k6PJ8FeH30Mud3Qq0Ewt+TeskhBAZWt0Rrtg==",
+  "success": true,
+  "projectFilePath": "/Users/jacobmorris/Documents/MP/zillowApp/zillowLib/zillowLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/jacobmorris/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/jacobmorris/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
